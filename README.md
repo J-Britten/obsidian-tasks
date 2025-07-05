@@ -1,5 +1,6 @@
 <h1 align="center">Obsidian Tasks</h1>
 
+
 <p align="center">Task management for the <a href="https://obsidian.md/">Obsidian</a> knowledge base.</p>
 
 <p align="center"><a href="https://publish.obsidian.md/tasks/">User Guide</a> - <a href="https://publish.obsidian.md/tasks-contributing/">Contributing Guide</a> - <a href="https://github.com/orgs/obsidian-tasks-group/projects/4/views/1">Roadmap</a></p>
